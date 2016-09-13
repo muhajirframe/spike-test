@@ -1,0 +1,25 @@
+{
+  "nextFreeModuleId": 5,
+  "modules": {
+    "byIdentifier": {
+      "multi assets/css/index.sss": 0,
+      "../../../../../usr/local/lib/node_modules/spike/node_modules/source-loader/lib/index.js!../../../../../usr/local/lib/node_modules/spike/node_modules/postcss-loader/index.js?!assets/css/index.sss": 1,
+      "multi assets/img/termna.png": 0,
+      "../../../../../usr/local/lib/node_modules/spike/node_modules/source-loader/lib/index.js!assets/img/termna.png": 2,
+      "multi js/main": 0,
+      "../../../../../usr/local/lib/node_modules/spike/node_modules/babel-loader/index.js!assets/js/index.js": 3,
+      "multi views/index.sgr": 0,
+      "../../../../../usr/local/lib/node_modules/spike/node_modules/source-loader/lib/index.js!../../../../../usr/local/lib/node_modules/spike/node_modules/reshape-loader/lib/index.js!views/index.sgr": 4
+    }
+  },
+  "nextFreeChunkId": 4,
+  "chunks": {
+    "byName": {
+      "assets/css/index.sss": 0,
+      "assets/img/termna.png": 1,
+      "js/main": 2,
+      "views/index.sgr": 3
+    },
+    "byBlocks": {}
+  }
+}
